@@ -200,7 +200,9 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 
 <br>
 
-### ✹ Additional and important PDFs 
+>[!important]
+>### ✹ Additional and important PDFs 
+><p>If you are seeing (Unable to render code block) warning than just download the pdf.</p>
 
 <table>
   <tr>
