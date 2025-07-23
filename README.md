@@ -20,7 +20,7 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 <a href="https://prepinsta.com/" target="_blank">
   <img src="https://img.shields.io/badge/PrepInsta-Website-grey?style=for-the-badge" alt="PrepInsta Badge"></a>
 
-<a href="https://www.geeksforgeeks.org/aptitude/" target="_blank">
+<a href="https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Aptitude-grey?style=for-the-badge" alt="GeeksforGeeks Aptitude Badge"></a>
 
 
@@ -40,8 +40,8 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 <a href="https://tc2.ca/" target="_blank">
   <img src="https://img.shields.io/badge/The%20Critical%20Thinking%20Consortium-Website-grey?style=for-the-badge" alt="The Critical Thinking Consortium Badge"></a>
 
-<a href="https://www.edx.org/course/critical-thinking" target="_blank">
-  <img src="https://img.shields.io/badge/edX%20Critical%20Thinking%20Course-Website-grey?style=for-the-badge" alt="edX Critical Thinking Course Badge"></a>
+<a href="https://www.coursera.org/courses?query=critical%20thinking" target="_blank">
+  <img src="https://img.shields.io/badge/Critical%20Thinking%20Course-Website-grey?style=for-the-badge" alt="edX Critical Thinking Course Badge"></a>
 
 
 ---
@@ -57,7 +57,7 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 
 **Tools**:
 
-<a href="https://www.coursera.org/learn/fundamentals-of-personal-financial-planning" target="_blank">
+<a href="https://www.coursera.org/courses?query=financial%20planning" target="_blank">
   <img src="https://img.shields.io/badge/Coursera%20Financial%20Planning-Course-grey?style=for-the-badge" alt="Coursera Financial Planning Badge"></a>
 
 <a href="https://www.youneedabudget.com/" target="_blank">
@@ -84,9 +84,6 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 
 <a href="https://zenhabits.net/" target="_blank">
   <img src="https://img.shields.io/badge/Zen%20Habits-Website-grey?style=for-the-badge" alt="Zen Habits Badge"></a>
-
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-Website-grey?style=for-the-badge" alt="Notion Badge"></a>
 
 
 ---
@@ -173,8 +170,8 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 
 **Courses**:
 
-<a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">
-  <img src="https://img.shields.io/badge/IBM%20Data%20Science-Coursera-grey?style=for-the-badge" alt="IBM Data Science Certificate Badge"></a>
+<a href="https://www.coursera.org/learn/introduction-to-ai" target="_blank">
+  <img src="https://img.shields.io/badge/IBM%Artifical%Intelligence-Coursera-grey?style=for-the-badge" alt="IBM Data Science Certificate Badge"></a>
 
 <a href="https://www.fast.ai/" target="_blank">
   <img src="https://img.shields.io/badge/fast.ai-Course-grey?style=for-the-badge" alt="fast.ai Badge"></a>
