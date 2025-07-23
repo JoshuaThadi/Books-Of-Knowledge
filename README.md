@@ -171,7 +171,7 @@ Resources related for Aptitude, Critical Learning, Programming Languages, etc.
 **Courses**:
 
 <a href="https://www.coursera.org/learn/introduction-to-ai" target="_blank">
-  <img src="https://img.shields.io/badge/IBM%Artifical%Intelligence-Coursera-grey?style=for-the-badge" alt="IBM Data Science Certificate Badge"></a>
+  <img src="https://img.shields.io/badge/IBM_Artifical_Intelligence-Coursera-grey?style=for-the-badge" alt="IBM Data Science Certificate Badge"></a>
 
 <a href="https://www.fast.ai/" target="_blank">
   <img src="https://img.shields.io/badge/fast.ai-Course-grey?style=for-the-badge" alt="fast.ai Badge"></a>
